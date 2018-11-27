@@ -28,7 +28,7 @@ p {
 
 /* Links */
 a {
-  color: #7FDBFF;
+  color: rgb(150, 200, 220);;
   word-wrap: break-word;
 
   -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -40,7 +40,7 @@ a {
 
 a:hover,
 a:focus {
-  color: #7FDBFF;
+  color: rgb(150, 200, 220);
   text-decoration: none;
   outline: 0;
 }
@@ -66,6 +66,27 @@ a:after {
 /*---------------------------------------------------
   SECTION WRAPS
 ---------------------------------------------------*/
+header {
+  background-color: #2f2f2f;
+}
+
+nav {
+  width: 100%;
+  background-color: #ffffff;
+}
+nav a {
+  display: block;
+  float: right;
+   
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  text-decoration: none; 
+}
+nav a:hover {
+  background-color: #ffffff;
+}
 
 /* Header Wrap */
 .header {
@@ -106,7 +127,7 @@ a:after {
 
 /* About Wrap */
 .about {
-  background: #2c3e50;
+  background: #2f2f2f;
   padding-top: 60px;
   padding-bottom: 60px;
   color: white;

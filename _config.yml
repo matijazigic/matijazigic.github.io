@@ -1,0 +1,92 @@
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Matija Zigic
+title: Senior Robotics Engineer
+email: zigic.matija@gmail.com 
+phone: +385 98 551721
+website: matijazigic.github.io
+
+# Social links
+#twitter_username: jekyllrb
+github_username:  matijazigic
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+linkedin_username: matija-zigic
+#xing_username: jekyll
+#pinterest_username: jekyll
+youtube_username: channel/UCl_ODOZ3JINPGwsHYZbSkWA/playlists
+#googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/mz_casual.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Matija Zigic went to Faculty of Electrical Engineering and Computing, **University of Zagreb**. 
+  He received his Master's degree in 2012. His primary focus was robotics and robust voice activity detection for applications in mobile robotics. 
+  
+  After completing his Master's thesis he started working in **Intis** where he worked on different industrial automation tasks worldwide. He was writing software for company that offers state-of-the-art plant solutions for the metal industry.
+  
+  In 2014, he started working for Croatian based startup **Farmeron**. There, he developed cloud-based farm business management software. More precisely, worked on developing mobile applications, backend development and integration with different hardware devices using various technologies. 
+  
+  In 2017, he accepted the offer from **Aeolus robotics** and started working on bringing the first generation of household robot assistants into people's home. Worked on an interface between robot's brain and low-level controllers and simulations. 
+  In **Gideon Brothers**, he is designing different parts of automated robotics system for logistics purposes. Working on challenging DATMO (Detection and tracking of moving objects) problem in crowded environments using different sensors like LIDARs, Stereo and RGBD cameras. Participated in solving various computer vision problems and real-time enhancements. As part of navigation team he is working on planning and control tasks.
+
+# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+# You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+   # - Lists
+   # - Tables
+   # - Links
+   # - Images
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+more_title: Skills #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  <mark> Robotics and AI </mark> : Robotics, ROS, Embedded, AI, Machine Learning, Deep Learning, LIDAR, Stereo, RGB-D
+  
+  <mark> Languages </mark> : C, C++, Python, Java
+  
+  <mark> DevOps </mark> : Linux, Scripting, Docker, SQL
+  
+  <mark> Automation </mark> : Automation, PLC, Scada
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

@@ -1,0 +1,47 @@
+# Experience template
+- layout: left
+  company: Gideon Brothers
+  link: gideonbros.ai
+  job_title: Senior Robotics Engineer
+  dates: March 2017 - Present
+  quote: >
+    Providing global market leaders with automate-to-grow robotic solutions.
+  description: | # this will include new lines to allow paragraphs
+   * Navigation planners and controllers
+   * Detection and tracking of moving objects
+   * LIDARs, Stereo and RGBD camera sensors
+   * Computer vision and real time enhancements
+- layout: left
+  company: Aeolus Robotics
+  link: aeolusbot.com
+  job_title: Robotics Engineer
+  dates: June 2017 - March 2018
+  quote: >
+    Aeolus Robotics is worldwide company bringing the first generation of household robot assistants into people’s home.
+  description: | # this will include new lines to allow paragraphs
+   * interface between robot’s brain and low-level microcontrollers. 
+   * interface to control, test and simulate sensors, arm and base motion.
+   * face mimics
+- layout: left
+  company: Farmeron
+  link: crunchbase.com/organization/farmeron
+  job_title: Software Engineer
+  dates: August 2014 - March 2017
+  quote: >
+    Farmeron helps farmers across the world to manage their farming data online and to do farm performance analysis using exciting statistics. 
+  description: | # this will include new lines to allow paragraphs
+    * cloud-based farm business management software
+    * mobile applications and backend development
+    * integration with hardware devices 
+- layout: left
+  company: Intis
+  link: intis.eu
+  job_title: Automation Engineer
+  dates: January 2013 - August 2014
+  quote: >
+    Engineering and automation of most demanding technological processes.
+  description: | # this will include new lines to allow paragraphs
+    * Hardware and software design for various branches of industry
+    * PLC and SCADA development, Matlab simulations
+    * Commissioning worldwide
+    

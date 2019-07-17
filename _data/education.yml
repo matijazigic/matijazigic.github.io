@@ -1,0 +1,17 @@
+# Education Template
+- layout: left
+  name: University of Zagreb
+  dates: 2010 - 2012
+  qualification: M.Sc. in Control Engineering and Automation
+  quote: >
+    Thesis: 'Robust voice activity detection for applications in mobile robotics'
+  description: | # this will include new lines to allow paragraphs
+    Robotics
+- layout: left
+  name: University of Zagreb
+  dates: 2007 - 2010
+  qualification: B.Sc. in Control Engineering and Automation
+  quote: >
+    Thesis: 'Design of electric vehicle voltage converter'
+  description: | # this will include new lines to allow paragraphs
+    Control Engineering

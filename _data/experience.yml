@@ -7,7 +7,7 @@
   quote: >
     Providing global market leaders with automate-to-grow robotic solutions.
   description: | # this will include new lines to allow paragraphs
-   * Navigation planners and controllers
+   * Navigation planners and controllers for differential driver and Ackermann steering robots
    * Detection and tracking of moving objects
    * LIDARs, Stereo and RGBD camera sensors
    * Computer vision and real time enhancements

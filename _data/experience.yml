@@ -19,8 +19,8 @@
   quote: >
     Aeolus Robotics is worldwide company bringing the first generation of household robot assistants into people’s home.
   description: | # this will include new lines to allow paragraphs
-   * interface between robot’s brain and low-level microcontrollers. 
-   * interface to control, test and simulate sensors, arm and base motion.
+   * interface between robot’s brain and low-level microcontrollers
+   * interface to control, test and simulate sensors, arm and base motion
    * face mimics
 - layout: left
   company: Farmeron

@@ -82,6 +82,8 @@ sass:
 plugins:
  - jekyll-seo-tag
 
+google_analytics: UA-168928275-1
+
 exclude : [
   "Gemfile",
   "Gemfile.lock",

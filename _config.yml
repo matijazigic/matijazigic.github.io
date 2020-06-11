@@ -83,6 +83,7 @@ plugins:
  - jekyll-seo-tag
 
 google_analytics: UA-168928275-1
+gtag: UA-168928275-1
 
 exclude : [
   "Gemfile",

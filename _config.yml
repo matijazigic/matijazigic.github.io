@@ -36,7 +36,7 @@ about_content: | # this will include new lines to allow paragraphs
   In 2017, he accepted the offer from **Aeolus robotics** and started working on bringing the first generation of household robot assistants into people's homes. Worked on an interface between a robot's brain and low-level controllers and simulations. 
   In **Gideon Brothers**, he is designing different parts of the automated robotics system for logistics purposes. Working on challenging DATMO (Detection and tracking of moving objects) problem in crowded environments using different sensors like LIDARs, Stereo, and RGBD cameras. Participated in solving various computer vision problems and real-time enhancements. As part of the navigation team, he is working on planning and control tasks. 
   
-  As head of the navigation group, he is working on designing different planners and controllers for all sorts of robots in logistic environments, like differential drive and Ackermann steering robots.
+  As head of the navigation group, he is working on designing different planners and controllers for all sorts of robots in logistic environments, like differential drive, Ackermann steering and omnidirectional robots.
 
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
